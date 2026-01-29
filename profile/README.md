@@ -17,7 +17,7 @@
 | SDCard      | ✅     |Works okay.|
 | Fingerprint | ✅     |Ditto.|
 | IMS         | ✅❓   |Starts. Not tested farther.|
-| NFC         | ❌     |Service not even added.|
+| NFC         | ✅     |Works fine.|
 | SELinux     | ❌     |LOL|
 
 ### Luna
