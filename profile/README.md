@@ -10,7 +10,7 @@
 | Keyboard    | ✅❓   |Works okay, but the touchpad does not disable itself when typing makes it unusable. Maybe a custom HAL will fix it. Etason.|
 | Lights      | ✅     |Works.|
 | Wifi        | ✅     |Works fine. Both 2.4 and 5GHz.|
-| GPS         | ✅❓   |Used to work, but not tested as of January 2026.|
+| GPS         | ✅     |Works.|
 | Camera      | ✅❓   |Ditto GPS. Definitely broken because of being disabled (for Luna). Maybe worth enabling for athena.|
 | RIL         | ✅     |Works. Sometimes doesn't start. Sometimes crashes device. When device is booted, it may not get signal until a few mins. Apart from that, stable.|
 | Call audio  | ✅     |Works.|
