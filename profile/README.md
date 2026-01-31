@@ -5,17 +5,17 @@
 | Feature     | Status | Notes |
 |-------------|--------|-------|
 | Audio       | ✅     |Works fine.|
-| Bluetooth   | ✅     |Works. Audio too.|
+| Bluetooth   | ✅     |Works fine.|
 | Charging    | ✅     |Works fine.|
 | Keyboard    | ✅❓   |Works okay, but the touchpad does not disable itself when typing makes it unusable. Maybe a custom HAL will fix it. Etason.|
-| Lights      | ✅     |Works.|
-| Wifi        | ✅     |Works fine. Both 2.4 and 5GHz.|
-| GPS         | ✅     |Works.|
+| Lights      | ✅     |Works fine.|
+| Wifi        | ✅     |Works fine.|
+| GPS         | ✅     |Works fine.|
 | Camera      | ❌     |Does not work.|
 | RIL         | ✅     |Works. Sometimes doesn't start. Sometimes crashes device. When device is booted, it may not get signal until a few mins. Apart from that, stable.|
-| Call audio  | ✅     |Works.|
-| SDCard      | ✅     |Works okay.|
-| Fingerprint | ✅     |Ditto.|
+| Call audio  | ✅     |Works fine.|
+| SDCard      | ✅     |Works fine.|
+| Fingerprint | ✅     |Works fine.|
 | IMS         | ✅❓   |Starts. Not tested farther.|
 | NFC         | ✅     |Works fine.|
 | SELinux     | ❌     |LOL|
@@ -24,19 +24,19 @@
 | Feature     | Status | Notes |
 |-------------|--------|-------|
 | Audio       | ✅     |Works fine.|
-| Bluetooth   | ✅     |Starts. Pairs. Works ok.|
-| Charging    | ✅     |Works fine. Maybe can log a bit too much.|
-| Keyboard    | ✅     |Works okay.|
-| Lights      | ✅     |Works.|
-| Wifi        | ✅     |Works fine. Both 2.4 and 5GHz.|
+| Bluetooth   | ✅     |Works fine.|
+| Charging    | ✅     |Works fine.|
+| Keyboard    | ✅     |Works fine.|
+| Lights      | ✅     |Works fine.|
+| Wifi        | ✅     |Works fine.|
 | GPS         | ✅     |Works fine.|
 | Camera      | ❌     |Does not work.|
 | RIL         | ✅     |Works. Only Single-SIM firmware.|
-| Call audio  | ✅     |Works.|
-| SDCard      | ✅     |Works okay.|
-| Fingerprint | ✅     |Works.|
+| Call audio  | ✅     |Works fine.|
+| SDCard      | ✅     |Works fine.|
+| Fingerprint | ✅     |Works fine.|
 | IMS         | ✅❓   |Starts. Not tested farther.|
-| NFC         | ✅     |Works.|
+| NFC         | ✅     |Works fine.|
 | SELinux     | ❌     |LOL|
 
 ## Device repos
