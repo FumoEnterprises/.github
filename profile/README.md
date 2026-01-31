@@ -6,12 +6,12 @@
 |-------------|--------|-------|
 | Audio       | ✅     |Works fine.|
 | Bluetooth   | ✅     |Works. Audio too.|
-| Charging    | ✅     |Works fine. Maybe can log a bit too much.|
+| Charging    | ✅     |Works fine.|
 | Keyboard    | ✅❓   |Works okay, but the touchpad does not disable itself when typing makes it unusable. Maybe a custom HAL will fix it. Etason.|
 | Lights      | ✅     |Works.|
 | Wifi        | ✅     |Works fine. Both 2.4 and 5GHz.|
 | GPS         | ✅     |Works.|
-| Camera      | ✅❓   |Ditto GPS. Definitely broken because of being disabled (for Luna). Maybe worth enabling for athena.|
+| Camera      | ❌     |Does not work.|
 | RIL         | ✅     |Works. Sometimes doesn't start. Sometimes crashes device. When device is booted, it may not get signal until a few mins. Apart from that, stable.|
 | Call audio  | ✅     |Works.|
 | SDCard      | ✅     |Works okay.|
@@ -23,20 +23,20 @@
 ### Luna
 | Feature     | Status | Notes |
 |-------------|--------|-------|
-| Audio       | ✅❓   |Works fine?! My device has BROKEN audio for some reason, can't test.|
+| Audio       | ✅     |Works fine.|
 | Bluetooth   | ✅     |Starts. Pairs. Works ok.|
 | Charging    | ✅     |Works fine. Maybe can log a bit too much.|
 | Keyboard    | ✅     |Works okay.|
-| Lights      | ❓     |Lights HAL being written|
+| Lights      | ✅     |Works.|
 | Wifi        | ✅     |Works fine. Both 2.4 and 5GHz.|
-| GPS         | ✅❓   |Used to work, but not tested as of January 2026.|
+| GPS         | ✅     |Works fine.|
 | Camera      | ❌     |Does not work.|
-| RIL         | ✅❓   |Works. Sometimes doesn't start. When device is booted, it may not get signal until a few mins. Apart from that, stable.|
-| Call audio  | ❌     |Mic does not work. Audio only via speaker.|
+| RIL         | ✅     |Works. Only Single-SIM firmware.|
+| Call audio  | ✅     |Works.|
 | SDCard      | ✅     |Works okay.|
-| Fingerprint | ❌     |Service not added.|
+| Fingerprint | ❌     |HAL broken.|
 | IMS         | ✅❓   |Starts. Not tested farther.|
-| NFC         | ❌     |Service not even added.|
+| NFC         | ✅     |Works.|
 | SELinux     | ❌     |LOL|
 
 ## Device repos
