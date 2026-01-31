@@ -34,7 +34,7 @@
 | RIL         | ✅     |Works. Only Single-SIM firmware.|
 | Call audio  | ✅     |Works.|
 | SDCard      | ✅     |Works okay.|
-| Fingerprint | ❌     |HAL broken.|
+| Fingerprint | ✅     |Works.|
 | IMS         | ✅❓   |Starts. Not tested farther.|
 | NFC         | ✅     |Works.|
 | SELinux     | ❌     |LOL|
