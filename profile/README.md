@@ -7,23 +7,23 @@
 | Audio       | ✅     |Works fine.|
 | Bluetooth   | ✅     |Works fine.|
 | Charging    | ✅     |Works fine.|
-| Keyboard    | ✅❓   |Works okay, but the touchpad does not disable itself when typing makes it unusable. Maybe a custom HAL will fix it. Etason.|
+| Keyboard    | ✅     |Works fine.|
 | Lights      | ✅     |Works fine.|
 | Wifi        | ✅     |Works fine.|
 | GPS         | ✅     |Works fine.|
-| Camera      | ❌     |Does not work.|
-| RIL         | ✅     |Works. Sometimes doesn't start. Sometimes crashes device. When device is booted, it may not get signal until a few mins. Apart from that, stable.|
+| Camera      | ✅     |Works fine.|
+| RIL         | ✅     |Works. When device is booted, it may not get signal until a few mins. Apart from that, stable.|
 | Call audio  | ✅     |Works fine.|
 | SDCard      | ✅     |Works fine.|
 | Fingerprint | ✅     |Works fine.|
-| IMS         | ✅❓   |Starts. Not tested farther.|
+| IMS         | ✅     |Works fine.|
 | NFC         | ✅     |Works fine.|
 | SELinux     | ❌     |LOL|
 
 ### Luna
 | Feature     | Status | Notes |
 |-------------|--------|-------|
-| Audio       | ✅     |Works fine.|
+| Audio       | ✅❓   |SystemUI is ok, but app audio is broken|
 | Bluetooth   | ✅     |Works fine.|
 | Charging    | ✅     |Works fine.|
 | Keyboard    | ✅     |Works fine.|
