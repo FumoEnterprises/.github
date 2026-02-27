@@ -12,7 +12,7 @@
 | Wifi        | ✅     |Works fine.|
 | GPS         | ✅     |Works fine.|
 | Camera      | ✅     |Works fine.|
-| RIL         | ✅     |Works. When device is booted, it may not get signal until a few mins. Apart from that, stable.|
+| RIL         | ✅     |Works fine.|
 | Call audio  | ✅     |Works fine.|
 | SDCard      | ✅     |Works fine.|
 | Fingerprint | ✅     |Works fine.|
