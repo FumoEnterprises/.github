@@ -18,7 +18,7 @@
 | Fingerprint | ✅     |Works fine.|
 | IMS         | ✅     |Works fine.|
 | NFC         | ✅     |Works fine.|
-| SELinux     | ❌     |LOL|
+| SELinux     | ✅ ❓  |Boots, fixing.......|
 
 ### Luna
 | Feature     | Status | Notes |
